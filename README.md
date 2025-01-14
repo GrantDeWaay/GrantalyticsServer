@@ -1,3 +1,6 @@
+# Grantalytics
+## Interaction Data Aggregate for the Personal Site of Grant DeWaay
+
 ### Configuration
 Before running the application, you need to set up the `application.properties` file.
 
