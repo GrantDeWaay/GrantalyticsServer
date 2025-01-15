@@ -1,6 +1,6 @@
 # Grantalytics - Interaction Data Aggregate for the Personal Site of Grant DeWaay
 
-Grantalytics Server is a data aggregation RESTful service built with Spring Boot that receives requests when users visit and subsequently closes [my personal site](https://grantdewaay.com)
+Grantalytics Server is a simple data aggregation RESTful service built with Spring Boot that receives requests when users visit and subsequently closes [my personal site](https://grantdewaay.com)
 This enables me to see what projects resonate the most with my audience, and what content I can improve on.
 Best of all, I am able to see when specific employers visit the site as part of the application process by appending my URL with a path.
 
