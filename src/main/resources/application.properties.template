@@ -1,0 +1,6 @@
+# Application Name
+spring.application.name=GrantalyticsServer
+
+# MongoDB Configuration
+spring.data.mongodb.uri=YOUR_MONGODB_URI_HERE
+spring.data.mongodb.database=YOUR_DATABASE_NAME_HERE
